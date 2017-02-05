@@ -4,7 +4,7 @@ package game;
  * Created by e165737 on 2017/02/05.
  */
 import java.util.Vector;
-public class Hand {/変数宣言
+public class Hand {//変数宣言
     private int Value; //手札の値を保存
     private Vector hand;  //手札の内容を保存
 
